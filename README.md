@@ -6,7 +6,7 @@ A ruby gem to add the [Jssor Slider](https://github.com/jssor/slider) to your Ra
 
 Add this line to your application's Gemfile:
 
-    gem 'jssorslider-rails'
+    gem 'jssorslider-rails', github: 'matthias-g/jssorslider-rails'
 
 Require the Jssor files you want in application.js
 
